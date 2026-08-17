@@ -1,0 +1,1 @@
+import{L as e}from"./DjmOR_9T.js";import{c as t}from"./D2RpKsrq.js";var n=null,r=null;function i(e){return`${t}${e}`}async function a(){return n||=await fetch(i(`/data/questions.json`)).then(e=>e.json()),n}async function o(){return r||=await fetch(i(`/data/answers.json`)).then(e=>e.json()),r}var s=e({selectedUpls:[],measure:`personas`});export{o as n,a as r,s as t};

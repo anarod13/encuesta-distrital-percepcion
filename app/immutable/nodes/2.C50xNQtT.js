@@ -1,0 +1,1 @@
+import{b as e,v as t}from"../chunks/DjmOR_9T.js";import"../chunks/xihTtKlq.js";var n=e(`<p>Elige una pregunta a la izquierda.</p>`);function r(e){var r=n();t(e,r)}export{r as component};
