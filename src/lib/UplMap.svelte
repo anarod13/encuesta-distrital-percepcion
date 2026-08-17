@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import { base } from '$app/paths';
 	import { filters } from './filterState.svelte';
 
 	type MapFeature = { name: string; d: string };
@@ -8,7 +9,7 @@
 	let features = $state<MapFeature[]>([]);
 
 	onMount(async () => {
-		const data = await fetch('/data/upls-map.json').then((r) => r.json());
+		const data = await fetch(`${base}/data/upls-map.json`).then((r) => r.json());
 		viewBox = data.viewBox;
 		features = data.features ?? [];
 	});

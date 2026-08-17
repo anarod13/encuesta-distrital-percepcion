@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { page } from '$app/state';
+	import { base } from '$app/paths';
 	import { loadQuestions } from './data';
 	import { filters } from './filterState.svelte';
 	import type { Question } from './types';
@@ -36,7 +37,7 @@
 			{#each filtered as question (question.id)}
 				<li>
 					<a
-						href="/q/{question.id}{questionQuery}"
+						href="{base}/q/{question.id}{questionQuery}"
 						class:active={page.params.id === question.id}
 					>
 						{question.title}
