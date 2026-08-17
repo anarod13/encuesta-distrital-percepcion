@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "1-7-hogar-unipersonal",
+    "title": "1 - 7. Hogar unipersonal",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "2-8-en-donde-nacio-usted",
+    "title": "2 - 8. ¿En dónde nació usted?",
+    "chartKind": "hbar",
+    "categories": [
+      "En Bogotá",
+      "En otro municipio",
+      "En otro país"
+    ]
+  },
+  {
+    "id": "3-9-cuanto-hace-que-usted-vive-en-bogota",
+    "title": "3 - 9. ¿Cuánto hace que usted vive en Bogotá?",
+    "chartKind": "hbar",
+    "categories": [
+      "Menos de 1 año",
+      "Entre 1 a 5 años",
+      "Más de 5 años",
+      "Toda la vida ha vivido en Bogotá"
+    ]
+  },
+  {
+    "id": "4-101-usted-considera-que-su-estado-de-salud-actual-es",
+    "title": "4 - 101. ¿Usted considera que su estado de salud actual es …?",
+    "chartKind": "stacked",
+    "categories": [
+      "Muy malo",
+      "Malo",
+      "Regular",
+      "Bueno",
+      "Muy bueno",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "5-a-sensacion-de-nerviosismo-de-ansiedad-de-tener-los-nervios-de-punta",
+    "title": "5 - a. ¿Sensación de nerviosismo, de ansiedad, de tener los nervios de punta?",
+    "chartKind": "hbar",
+    "categories": [
+      "Ningún día",
+      "Varios días",
+      "Más de la mitad de los días",
+      "Casi todos los días"
+    ]
+  },
+  {
+    "id": "5-b-incapacidad-de-evadir-o-controlar-sus-preocupaciones",
+    "title": "5 - b. ¿Incapacidad de evadir o controlar sus preocupaciones?",
+    "chartKind": "hbar",
+    "categories": [
+      "Ningún día",
+      "Varios días",
+      "Más de la mitad de los días",
+      "Casi todos los días"
+    ]
+  },
+  {
+    "id": "5-c-preocupacion-excesiva-por-diferentes-cosas-o-situaciones",
+    "title": "5 - c. ¿Preocupación excesiva por diferentes cosas o situaciones?",
+    "chartKind": "hbar",
+    "categories": [
+      "Ningún día",
+      "Varios días",
+      "Más de la mitad de los días",
+      "Casi todos los días"
+    ]
+  },
+  {
+    "id": "5-d-dificultad-para-relajarse",
+    "title": "5 - d. ¿Dificultad para relajarse?",
+    "chartKind": "hbar",
+    "categories": [
+      "Ningún día",
+      "Varios días",
+      "Más de la mitad de los días",
+      "Casi todos los días"
+    ]
+  },
+  {
+    "id": "5-e-tan-intranquilo-inquieto-o-agitado-que-le-resulta-dificil-quedarse-quieto",
+    "title": "5 - e. ¿Tan intranquilo, inquieto o agitado que le resulta difícil quedarse quieto?",
+    "chartKind": "hbar",
+    "categories": [
+      "Ningún día",
+      "Varios días",
+      "Más de la mitad de los días",
+      "Casi todos los días"
+    ]
+  },
+  {
+    "id": "5-f-que-se-enfada-o-irrita-con-facilidad",
+    "title": "5 - f. ¿Que se enfada o irrita con facilidad?",
+    "chartKind": "hbar",
+    "categories": [
+      "Ningún día",
+      "Varios días",
+      "Más de la mitad de los días",
+      "Casi todos los días"
+    ]
+  },
+  {
+    "id": "5-g-miedo-o-susto-como-si-algo-malo-pudiera-suceder",
+    "title": "5 - g. ¿Miedo o susto, como si algo malo pudiera suceder?",
+    "chartKind": "hbar",
+    "categories": [
+      "Ningún día",
+      "Varios días",
+      "Más de la mitad de los días",
+      "Casi todos los días"
+    ]
+  },
+  {
+    "id": "6-a-participa-en-actividades-fisicas-como-bailar-o-hacer-ejercicio",
+    "title": "6 - a. Participa en actividades físicas, como bailar o hacer ejercicio",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-b-asiste-a-eventos-culturales-o-artisticos",
+    "title": "6 - b. Asiste a eventos culturales o artísticos",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-c-se-sumerge-en-el-trabajo-o-en-tareas",
+    "title": "6 - c.  Se sumerge en el trabajo o en tareas.",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-d-ve-una-pelicula-o-va-al-cine",
+    "title": "6 - d.  Ve una película o va al cine.",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-e-consulta-con-un-profesional",
+    "title": "6 - e.  Consulta con un profesional.",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-f-depende-de-redes-de-apoyo-como-amigos-familiares-o-grupos-de-apoyo",
+    "title": "6 - f.  Depende de redes de apoyo, como amigos, familiares o grupos de apoyo.",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-g-busca-apoyo-espiritual-o-religioso",
+    "title": "6 - g.  Busca apoyo espiritual o religioso.",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-h-medita-o-practica-la-atencion-plena",
+    "title": "6 - h.  Medita o practica la atención plena.",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-i-realiza-manualidades-pintar-esculpir-modelar-tomar-fotografias-tejer-etc",
+    "title": "6 - i. Realiza manualidades (pintar, esculpir, modelar, tomar fotografías, tejer, etc.)",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-j-toca-instrumentos-musicales-compone-interpreta-teatro",
+    "title": "6 - j. Toca instrumentos musicales, compone, interpreta teatro",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-k-escucha-musica-lee-libros-o-escribe",
+    "title": "6 - k. Escucha música, lee libros o escribe",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "6-l-juega-videojuegos",
+    "title": "6 - l. Juega videojuegos.",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "7-a-las-areas-verdes-y-los-parques-de-mi-barrio-o-zona-donde-vivo-son-espacios-para-el-disfrute-y-mejoramiento-de-la-calidad-de-vida-de-los-ciudadanos",
+    "title": "7 - a. Las áreas verdes y los parques de mi barrio o zona donde vivo, son espacios para el disfrute y mejoramiento de la calidad de vida de los ciudadanos",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "7-b-las-condiciones-de-los-equipamientos-y-de-seguridad-de-las-areas-verdes-de-mi-barrio-o-zona-donde-vivo-han-mejorado-en-lo-corrido-del-presente-ano",
+    "title": "7 - b. Las condiciones de los equipamientos y de seguridad de las áreas verdes de mi barrio o zona donde vivo, han mejorado en lo corrido del presente año",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "8-a-las-autoridades-competentes-promueven-el-cuidado-responsable-de-las-mascotas-como-vacunacion-esterilizacion-disposicion-adecuada-de-los-excrementos-evitar-el-maltrato-etc-garantizando-la-salud-y-bienestar-de-los-animales-de-compania",
+    "title": "8 - a. Las autoridades competentes promueven el cuidado responsable de las mascotas (como vacunación, esterilización, disposición adecuada de los excrementos, evitar el maltrato, etc.) garantizando la salud y bienestar de los animales de compañía.",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "8-b-considero-que-las-mascotas-abandonadas-o-en-situacion-de-calle-reciben-la-atencion-y-proteccion-necesarias-en-bogota",
+    "title": "8 - b. Considero que las mascotas abandonadas o en situación de calle reciben la atención y protección necesarias en Bogotá.",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "8-c-adoptaria-una-mascota-en-mi-hogar",
+    "title": "8 - c. Adoptaría una mascota en mi hogar.",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "9-a-limpieza-general-de-la-casa",
+    "title": "9 - a. Limpieza general de la casa",
+    "chartKind": "hbar",
+    "categories": [
+      "El /la jefe/a de hogar",
+      "El/la cónyuge o pareja del jefe de hogar",
+      "Ambos cónyuges o pareja",
+      "Todos los miembros del hogar",
+      "Otros miembros del hogar (incluyendo hijos, otros familiares, etc.)",
+      "Servicio contratado (p.ej., limpieza, niñera)",
+      "Otro familiar o pariente que ayude con las tareas del hogar pero que no vive en la vivienda",
+      "No se realiza"
+    ]
+  },
+  {
+    "id": "9-b-mantenimiento-y-reparaciones-del-hogar",
+    "title": "9 - b. Mantenimiento y reparaciones del hogar",
+    "chartKind": "hbar",
+    "categories": [
+      "El /la jefe/a de hogar",
+      "El/la cónyuge o pareja del jefe de hogar",
+      "Ambos cónyuges o pareja",
+      "Todos los miembros del hogar",
+      "Otros miembros del hogar (incluyendo hijos, otros familiares, etc.)",
+      "Servicio contratado (p.ej., limpieza, niñera)",
+      "Otro familiar o pariente que ayude con las tareas del hogar pero que no vive en la vivienda",
+      "No se realiza"
+    ]
+  },
+  {
+    "id": "9-c-lavado-de-ropa",
+    "title": "9 - c. Lavado de ropa",
+    "chartKind": "hbar",
+    "categories": [
+      "El /la jefe/a de hogar",
+      "El/la cónyuge o pareja del jefe de hogar",
+      "Ambos cónyuges o pareja",
+      "Todos los miembros del hogar",
+      "Otros miembros del hogar (incluyendo hijos, otros familiares, etc.)",
+      "Servicio contratado (p.ej., limpieza, niñera)",
+      "Otro familiar o pariente que ayude con las tareas del hogar pero que no vive en la vivienda",
+      "No se realiza"
+    ]
+  },
+  {
+    "id": "9-d-planchar",
+    "title": "9 - d. Planchar",
+    "chartKind": "hbar",
+    "categories": [
+      "El /la jefe/a de hogar",
+      "El/la cónyuge o pareja del jefe de hogar",
+      "Ambos cónyuges o pareja",
+      "Todos los miembros del hogar",
+      "Otros miembros del hogar (incluyendo hijos, otros familiares, etc.)",
+      "Servicio contratado (p.ej., limpieza, niñera)",
+      "Otro familiar o pariente que ayude con las tareas del hogar pero que no vive en la vivienda",
+      "No se realiza"
+    ]
+  },
+  {
+    "id": "9-e-cocinar",
+    "title": "9 - e. Cocinar",
+    "chartKind": "hbar",
+    "categories": [
+      "El /la jefe/a de hogar",
+      "El/la cónyuge o pareja del jefe de hogar",
+      "Ambos cónyuges o pareja",
+      "Todos los miembros del hogar",
+      "Otros miembros del hogar (incluyendo hijos, otros familiares, etc.)",
+      "Servicio contratado (p.ej., limpieza, niñera)",
+      "Otro familiar o pariente que ayude con las tareas del hogar pero que no vive en la vivienda",
+      "No se realiza"
+    ]
+  },
+  {
+    "id": "9-f-compras-del-supermercado",
+    "title": "9 - f. Compras del supermercado",
+    "chartKind": "hbar",
+    "categories": [
+      "El /la jefe/a de hogar",
+      "El/la cónyuge o pareja del jefe de hogar",
+      "Ambos cónyuges o pareja",
+      "Todos los miembros del hogar",
+      "Otros miembros del hogar (incluyendo hijos, otros familiares, etc.)",
+      "Servicio contratado (p.ej., limpieza, niñera)",
+      "Otro familiar o pariente que ayude con las tareas del hogar pero que no vive en la vivienda",
+      "No se realiza"
+    ]
+  },
+  {
+    "id": "9-g-pago-de-facturas-y-planear-hacer-el-presupuesto-del-hogar",
+    "title": "9 - g. Pago de facturas y Planear/hacer el presupuesto del hogar",
+    "chartKind": "hbar",
+    "categories": [
+      "El /la jefe/a de hogar",
+      "El/la cónyuge o pareja del jefe de hogar",
+      "Ambos cónyuges o pareja",
+      "Todos los miembros del hogar",
+      "Otros miembros del hogar (incluyendo hijos, otros familiares, etc.)",
+      "Servicio contratado (p.ej., limpieza, niñera)",
+      "Otro familiar o pariente que ayude con las tareas del hogar pero que no vive en la vivienda",
+      "No se realiza"
+    ]
+  },
+  {
+    "id": "9-h-cuidado-de-los-ninos",
+    "title": "9 - h. Cuidado de los niños",
+    "chartKind": "hbar",
+    "categories": [
+      "El /la jefe/a de hogar",
+      "El/la cónyuge o pareja del jefe de hogar",
+      "Ambos cónyuges o pareja",
+      "Todos los miembros del hogar",
+      "Otros miembros del hogar (incluyendo hijos, otros familiares, etc.)",
+      "Servicio contratado (p.ej., limpieza, niñera)",
+      "Otro familiar o pariente que ayude con las tareas del hogar pero que no vive en la vivienda",
+      "No se realiza"
+    ]
+  },
+  {
+    "id": "9-i-ayuda-con-las-tareas-escolares-de-los-ninos",
+    "title": "9 - i. Ayuda con las tareas escolares de los niños",
+    "chartKind": "hbar",
+    "categories": [
+      "El /la jefe/a de hogar",
+      "El/la cónyuge o pareja del jefe de hogar",
+      "Ambos cónyuges o pareja",
+      "Todos los miembros del hogar",
+      "Otros miembros del hogar (incluyendo hijos, otros familiares, etc.)",
+      "Servicio contratado (p.ej., limpieza, niñera)",
+      "Otro familiar o pariente que ayude con las tareas del hogar pero que no vive en la vivienda",
+      "No se realiza"
+    ]
+  },
+  {
+    "id": "9-j-cuidado-de-personas-mayores-o-dependientes",
+    "title": "9 - j. Cuidado de personas mayores o dependientes",
+    "chartKind": "hbar",
+    "categories": [
+      "El /la jefe/a de hogar",
+      "El/la cónyuge o pareja del jefe de hogar",
+      "Ambos cónyuges o pareja",
+      "Todos los miembros del hogar",
+      "Otros miembros del hogar (incluyendo hijos, otros familiares, etc.)",
+      "Servicio contratado (p.ej., limpieza, niñera)",
+      "Otro familiar o pariente que ayude con las tareas del hogar pero que no vive en la vivienda",
+      "No se realiza"
+    ]
+  },
+  {
+    "id": "10-202-como-afecta-la-anterior-distribucion-de-tareas-domesticas-y-de-cuidado-en-el-bienestar-de-su-hogar-por-favor-elija-una-de-las-frases-que-le-voy-a-leer",
+    "title": "10 - 202. ¿Cómo afecta la anterior distribución de tareas domésticas y de cuidado en el bienestar de su hogar? Por favor elija una de las frases que le voy a leer.",
+    "chartKind": "hbar",
+    "categories": [
+      "Garantiza el bienestar y la  salud de todos los miembros de la familia.",
+      "Fomenta la armonía familiar.",
+      "No tiene una influencia clara en nuestro bienestar.",
+      "Causa cierto estrés o descontento en algunos miembros de la familia.",
+      "Genera conflictos serios o mucho estrés entre los miembros de mi hogar.",
+      "No estoy seguro/a de la influencia en nuestro bienestar."
+    ]
+  },
+  {
+    "id": "11-a-el-acceso-a-los-servicios-de-salud",
+    "title": "11 - a. ¿El acceso a los servicios de salud?",
+    "chartKind": "stacked",
+    "categories": [
+      "Muy malo",
+      "Malo",
+      "Regular",
+      "Bueno",
+      "Muy bueno",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "11-b-el-acceso-a-la-educacion",
+    "title": "11 - b. ¿El acceso a la educación?",
+    "chartKind": "stacked",
+    "categories": [
+      "Muy malo",
+      "Malo",
+      "Regular",
+      "Bueno",
+      "Muy bueno",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "11-c-el-acceso-a-oportunidades-laborales",
+    "title": "11 - c. ¿El acceso a oportunidades laborales?",
+    "chartKind": "stacked",
+    "categories": [
+      "Muy malo",
+      "Malo",
+      "Regular",
+      "Bueno",
+      "Muy bueno",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "11-d-el-acceso-a-la-oferta-cultural-y-recreativa",
+    "title": "11 - d. ¿El acceso a la oferta cultural y recreativa?",
+    "chartKind": "stacked",
+    "categories": [
+      "Muy malo",
+      "Malo",
+      "Regular",
+      "Bueno",
+      "Muy bueno",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "11-e-el-acceso-a-oportunidades-de-negocio-o-emprendimiento",
+    "title": "11 - e. ¿El acceso a oportunidades de negocio o emprendimiento?",
+    "chartKind": "stacked",
+    "categories": [
+      "Muy malo",
+      "Malo",
+      "Regular",
+      "Bueno",
+      "Muy bueno",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "11-f-el-acceso-a-los-alimentos",
+    "title": "11 - f. ¿El acceso a los alimentos?",
+    "chartKind": "stacked",
+    "categories": [
+      "Muy malo",
+      "Malo",
+      "Regular",
+      "Bueno",
+      "Muy bueno",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "12-302-cual-de-las-siguientes-frases-se-ajusta-mas-al-acceso-de-alimentos-en-su-hogar",
+    "title": "12 - 302. ¿Cuál de las siguientes frases se ajusta más al acceso de alimentos en su hogar?",
+    "chartKind": "hbar",
+    "categories": [
+      "Por falta de dinero, la semana pasada ningún miembro del hogar pudo consumir las tres comidas diarias  (desayuno, almuerzo cena)",
+      "Por falta de dinero, la semana pasada solo algunos miembros del hogar  pudieron consumir las tres comidas diarias (desayuno, almuerzo cena)",
+      "El dinero no fue problema para que todos los miembros del hogar tuvieran acceso a las tres comidas diarias (desayuno, almuerzo cena) aunque algunos optaron por no consumirlas"
+    ]
+  },
+  {
+    "id": "13-303-usted-se-considera-pobre",
+    "title": "13 - 303. ¿Usted se considera pobre?",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "14-401-durante-este-ano-usted-o-algun-miembro-del-hogar-ha-sido-victima-de-algun-delito-en-la-ciudad-de-bogota",
+    "title": "14 - 401. ¿Durante este año, usted o algún miembro del hogar, ha sido víctima de algún delito en la ciudad de Bogotá?",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "15-a-hurto-a-personas-atraco-cosquilleo-raponazo-paseo-millonario",
+    "title": "15 - a. Hurto a personas (atraco, cosquilleo, raponazo, paseo millonario)",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "15-b-hurto-de-vehiculos-o-motos-o-alguna-de-sus-partes",
+    "title": "15 - b. Hurto de vehículos o motos (o alguna de sus partes)",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "15-c-hurto-de-bicicleta",
+    "title": "15 - c. Hurto de bicicleta",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "15-d-homicidios-o-asesinatos",
+    "title": "15 - d. Homicidios o asesinatos",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "15-e-amenazas",
+    "title": "15 - e. Amenazas",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "15-f-extorsion",
+    "title": "15 - f. Extorsión",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "15-g-hurto-a-residencias",
+    "title": "15 - g. Hurto a residencias",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "15-h-cibercrimen-hurto-de-dinero-por-medios-informaticos-robo-de-datos-suplantacion-de-identidad",
+    "title": "15 - h. Cibercrimen (Hurto de dinero por medios informáticos, robo de datos, suplantación de identidad)",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "15-i-lesiones-personales",
+    "title": "15 - i. Lesiones personales",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "15-j-violencia-intrafamiliar",
+    "title": "15 - j. Violencia intrafamiliar",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "16-a-denuncio-hurto-a-personas-atraco-cosquilleo-raponazo-paseo-millonario",
+    "title": "16 - A. Denuncio hurto a personas (atraco, cosquilleo, raponazo, paseo millonario)",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "16-b-denuncio-hurto-de-vehiculos-o-motos-o-alguna-de-sus-partes",
+    "title": "16 - B. Denuncio hurto de vehículos o motos (o alguna de sus partes)",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "16-c-denuncio-hurto-de-bicicleta",
+    "title": "16 - C. Denuncio hurto de bicicleta",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "16-d-denuncio-homicidios-o-asesinatos",
+    "title": "16 - D. Denuncio homicidios o asesinatos",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "16-e-denuncio-amenazas",
+    "title": "16 - E. Denuncio amenazas",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "16-f-denuncio-extorsion",
+    "title": "16 - F. Denuncio extorsión",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "16-g-denuncio-hurto-a-residencias",
+    "title": "16 - G. Denuncio hurto a residencias",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "16-h-denuncio-cibercrimen-hurto-de-dinero-por-medios-informaticos-robo-de-datos-suplantacion-de-identidad",
+    "title": "16 - H. Denuncio cibercrimen (hurto de dinero por medios informáticos, robo de datos, suplantación de identidad)",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "16-i-denuncio-lesiones-personales",
+    "title": "16 - I. Denuncio lesiones personales",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "16-j-denuncio-violencia-intrafamiliar",
+    "title": "16 - J. Denuncio violencia intrafamiliar",
+    "chartKind": "doughnut",
+    "categories": [
+      "Sí",
+      "No"
+    ]
+  },
+  {
+    "id": "17-a-manejo-inadecuado-de-residuos-solidos",
+    "title": "17 - a. Manejo inadecuado de residuos sólidos",
+    "chartKind": "hbar",
+    "categories": [
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-b-inadecuada-disposicion-de-heces-de-las-mascotas",
+    "title": "17 - b. Inadecuada disposición de heces de las mascotas",
+    "chartKind": "hbar",
+    "categories": [
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-c-necesidades-fisiologicas-en-el-espacio-publico",
+    "title": "17 - c. Necesidades fisiológicas en el espacio público",
+    "chartKind": "hbar",
+    "categories": [
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-d-reuniones-ruidosas-que-perturben-la-tranquilidad-publica",
+    "title": "17 - d. Reuniones ruidosas que perturben la tranquilidad pública",
+    "chartKind": "hbar",
+    "categories": [
+      "En su residencia u otra residencia",
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-e-consumo-de-sustancias-psicoactivas-drogas-en-el-espacio-publico",
+    "title": "17 - e. Consumo de sustancias psicoactivas / drogas en el espacio público",
+    "chartKind": "hbar",
+    "categories": [
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-f-consumo-de-licor-alcohol-en-el-espacio-publico",
+    "title": "17 - f. Consumo de licor/alcohol en el espacio público",
+    "chartKind": "hbar",
+    "categories": [
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-g-rinas-o-confrontaciones-violentas-que-pueden-derivar-en-agresiones-fisicas",
+    "title": "17 - g. Riñas o confrontaciones violentas que pueden derivar en agresiones físicas",
+    "chartKind": "hbar",
+    "categories": [
+      "En su residencia u otra residencia",
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-h-ocupacion-indebida-del-espacio-publico",
+    "title": "17 - h. Ocupación indebida del espacio público",
+    "chartKind": "hbar",
+    "categories": [
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-i-irrespeto-hacia-la-autoridad-o-impedirle-realizar-sus-funciones",
+    "title": "17 - i. Irrespeto hacia la autoridad o impedirle realizar sus funciones",
+    "chartKind": "hbar",
+    "categories": [
+      "En su residencia u otra residencia",
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-j-abuso-de-la-autoridad",
+    "title": "17 - j.  Abuso de la autoridad",
+    "chartKind": "hbar",
+    "categories": [
+      "En su residencia u otra residencia",
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-k-acoso-sexual-silbidos-comentarios-sexuales-etc",
+    "title": "17 - k. Acoso sexual (Silbidos, comentarios sexuales, etc.)",
+    "chartKind": "hbar",
+    "categories": [
+      "En su residencia u otra residencia",
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-l-presencio-casos-de-violencia-intrafamiliar",
+    "title": "17 - l. Presenció casos de violencia intrafamiliar",
+    "chartKind": "hbar",
+    "categories": [
+      "En su residencia u otra residencia",
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-m-presencio-casos-de-violencia-contra-la-mujer",
+    "title": "17 - m. Presenció casos de violencia contra la mujer",
+    "chartKind": "hbar",
+    "categories": [
+      "En su residencia u otra residencia",
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-n-presencio-casos-de-violencia-contra-ninos-ninas-y-adolescentes-nna",
+    "title": "17 - n. Presenció casos de violencia contra niños, niñas y adolescentes (NNA)",
+    "chartKind": "hbar",
+    "categories": [
+      "En su residencia u otra residencia",
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "17-o-dano-en-bien-ajeno-o-contra-los-bienes-publicos-vandalismo",
+    "title": "17 - o. Daño en bien ajeno o contra los bienes públicos (vandalismo)",
+    "chartKind": "hbar",
+    "categories": [
+      "En su residencia u otra residencia",
+      "En la cuadra, conjunto, barrio",
+      "En otro espacio público",
+      "En el transporte público",
+      "En el lugar de trabajo",
+      "No afrontó la situación"
+    ]
+  },
+  {
+    "id": "18-405-que-tan-seguro-se-siente-usted-caminando-solo-por-su-barrio-de-dia",
+    "title": "18 - 405. ¿Qué tan seguro se siente usted caminando solo por su barrio de día",
+    "chartKind": "hbar",
+    "categories": [
+      "Muy inseguro",
+      "Inseguro/a",
+      "Ni seguro ni inseguro",
+      "Seguro/a",
+      "Muy seguro/a",
+      "Nunca sale solo/a de día"
+    ]
+  },
+  {
+    "id": "19-406-que-tan-seguro-se-siente-usted-caminando-solo-por-su-barrio-de-noche",
+    "title": "19 - 406. ¿Qué tan seguro se siente usted caminando solo por su barrio de noche",
+    "chartKind": "hbar",
+    "categories": [
+      "Muy inseguro",
+      "Inseguro/a",
+      "Ni seguro ni inseguro",
+      "Seguro/a",
+      "Muy seguro/a",
+      "Nunca sale solo/a de noche"
+    ]
+  },
+  {
+    "id": "20-a-en-el-ultimo-ano-en-bogota-las-autoridades-responden-con-mayor-rapidez-a-los-incidentes-de-seguridad-que-ocurren-en-mi-barrio",
+    "title": "20 - a. En el último año, en Bogotá,  las autoridades responden con mayor rapidez a los incidentes de seguridad que ocurren en mi barrio",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "20-c-en-el-ultimo-ano-en-bogota-la-informacion-y-los-medios-para-denunciar-delitos-estan-disponibles-y-son-faciles-de-entender",
+    "title": "20 - c. En el último año, en Bogotá, la información y los medios para denunciar delitos están disponibles y son fáciles de entender",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "20-e-en-el-ultimo-ano-en-bogota-quienes-cometen-un-delito-son-juzgados-y-sancionados-de-manera-justa",
+    "title": "20 - e. En el último año, en Bogotá , quienes cometen un delito son juzgados y sancionados de manera justa",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "21-501-en-que-actividad-ocupo-la-mayor-parte-del-tiempo-la-semana-pasada",
+    "title": "21 - 501. ¿En qué actividad ocupó la mayor parte del tiempo la semana pasada?",
+    "chartKind": "hbar",
+    "categories": [
+      "Trabajando",
+      "Buscando trabajo",
+      "Estudiando",
+      "Oficios del hogar",
+      "Incapacitado para trabajar",
+      "Otro"
+    ]
+  },
+  {
+    "id": "22-502-durante-el-ultimo-mes-los-ingresos-de-su-nucleo-familiar-fueron",
+    "title": "22 - 502. ¿Durante el último mes, los ingresos de su núcleo familiar fueron…?",
+    "chartKind": "hbar",
+    "categories": [
+      "Menos de 1 SMMLV",
+      "Entre 1 y 2 SMMLV",
+      "Entre 2 y 4 SMMLV",
+      "Más de 4 SMMLV."
+    ]
+  },
+  {
+    "id": "23-a-en-bogota-existe-suficiente-oferta-de-actividades-turisticas",
+    "title": "23 - a. En Bogotá existe suficiente oferta de actividades turísticas",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "23-b-bogota-cuenta-con-espacios-e-infraestructura-adecuados-para-eventos-de-asistencia-masiva-como-festivales-ferias-conciertos-partidos-etc",
+    "title": "23 - b. Bogotá cuenta con espacios e infraestructura adecuados para eventos de asistencia masiva como festivales, ferias, conciertos, partidos, etc.",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "23-c-bogota-es-reconocida-por-la-hospitalidad-que-ofrece-a-los-turistas",
+    "title": "23 - c. Bogotá es reconocida por la hospitalidad que ofrece a los turistas",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "23-d-la-marca-bogota-se-ha-posicionado-y-genera-recordacion-en-la-ciudadania",
+    "title": "23 - d. La marca Bogotá se ha posicionado y genera recordación en la ciudadanía",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "23-e-bogota-es-reconocida-como-una-ciudad-inteligente-smart-city-por-su-capacidad-de-desarrollo-tecnologico-e-innovacion",
+    "title": "23 - e. Bogotá es reconocida como una ciudad inteligente (Smart city) por su capacidad de desarrollo tecnológico e innovación.",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "23-f-en-bogota-la-educacion-y-formacion-profesional-son-adecuadas-para-las-necesidades-del-mercado-laboral",
+    "title": "23 - f. En Bogotá, la educación y formación profesional son adecuadas para las necesidades del mercado laboral",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "23-g-en-el-ultimo-ano-la-situacion-economica-de-mi-hogar-ha-mejorado",
+    "title": "23 - g. En el último año, la situación económica de mi hogar ha mejorado",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "23-h-en-el-ultimo-ano-la-situacion-economica-en-la-ciudad-ha-mejorado",
+    "title": "23 - h. En el último año, la situación económica en la ciudad ha mejorado",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "23-i-soy-optimista-sobre-mi-futuro-economico-en-bogota",
+    "title": "23 - i. Soy optimista sobre mi futuro económico en Bogotá",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "23-j-confia-en-que-el-gobierno-distrital-de-bogota-implementara-politicas-efectivas-para-el-crecimiento-economico-de-la-ciudad",
+    "title": "23 - j. Confía en que el Gobierno Distrital de Bogotá implementará políticas efectivas para el crecimiento económico de la ciudad",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "24-601-de-los-siguientes-medios-de-transporte-cual-es-el-que-mas-utiliza-para-desplazarse",
+    "title": "24 - 601. ¿De los siguientes medios de transporte cuál es el que MÁS utiliza para desplazarse",
+    "chartKind": "hbar",
+    "categories": [
+      "Bus urbano del SITP",
+      "Patinetas y bicicletas eléctricas",
+      "Moto ratón/mototaxi/tuc-tuc",
+      "Bus Troncal (Transmilenio)",
+      "A pie",
+      "Taxi",
+      "Vehículos particulares a través de plataformas o aplicaciones",
+      "Transporte de la empresa",
+      "Automóvil particular",
+      "Moto particular",
+      "Bicicleta"
+    ]
+  },
+  {
+    "id": "25-a-me-siento-satisfecho-con-el-principal-medio-de-transporte-que-uso-para-desplazarme",
+    "title": "25 - a. Me siento satisfecho con el principal medio de transporte que uso para desplazarme",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "25-b-las-obras-de-infraestructura-que-se-adelantan-reduciran-significativamente-mis-tiempos-de-viaje-en-el-futuro",
+    "title": "25 - b. Las obras de infraestructura que se adelantan reducirán significativamente mis tiempos de viaje en el futuro",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "25-c-la-senalizacion-y-el-mantenimiento-de-las-vias-en-mi-barrio-son-los-adecuados",
+    "title": "25 - c. La señalización y el mantenimiento de las vías en mi barrio son los adecuados",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "25-d-la-infraestructura-vial-y-peatonal-en-bogota-es-segura-para-peatones-y-ciclistas",
+    "title": "25 - d. La infraestructura vial y peatonal en Bogotá es segura para peatones y ciclistas",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "25-e-cuando-uso-el-sistema-transmilenio-me-siento-seguro-a",
+    "title": "25 - e. Cuando uso el sistema Transmilenio me siento seguro/a",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "25-f-considero-que-la-mayoria-de-los-bogotanos-respetan-las-normas-viales-y-de-transito",
+    "title": "25 - f. Considero que la mayoría de los bogotanos respetan las normas viales y de tránsito",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "25-g-considero-que-la-evasion-del-pago-del-pasaje-de-transporte-publico-se-ha-reducido",
+    "title": "25 - g. Considero que la evasión del pago del pasaje de transporte público se ha reducido",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "26-a-siento-confianza-en-que-la-primera-linea-del-metro-iniciara-operacion-en-2028",
+    "title": "26 - a. Siento confianza en que la Primera Línea del Metro iniciará operación en 2028",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "26-b-siento-confianza-en-que-la-administracion-distrital-de-bogota-esta-encaminada-en-avanzar-en-la-segunda-linea-del-metro",
+    "title": "26 - b. Siento confianza en que la Administración Distrital  de Bogotá está encaminada en avanzar en la segunda línea del metro",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "26-c-me-siento-seguro-a-al-utilizar-los-parques-y-areas-verdes-de-la-ciudad",
+    "title": "26 - c. Me siento seguro/a al utilizar los parques y áreas verdes de la ciudad",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "26-d-la-administracion-distrital-de-bogota-mantiene-los-espacios-publicos-en-buen-estado",
+    "title": "26 - d. La Administración Distrital de Bogotá mantiene los espacios públicos en buen estado",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "26-e-el-gobierno-distrital-de-bogota-comunica-de-forma-recurrente-el-avance-de-las-obras-de-infraestructura-en-la-ciudad",
+    "title": "26 - e. El Gobierno Distrital de Bogotá comunica de forma recurrente el avance de las obras de infraestructura en la ciudad",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "27-a-en-el-ultimo-ano-siento-que-la-calidad-del-aire-en-bogota-ha-mejorado",
+    "title": "27 - a. En el último año, siento que la calidad del aire en Bogotá ha mejorado",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "27-b-el-reciclaje-y-manejo-de-residuos-solidos-en-bogota-son-adecuados",
+    "title": "27 - b. El reciclaje y manejo de residuos sólidos en Bogotá son adecuados",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "27-c-me-siento-seguro-a-consumiendo-bebiendo-el-agua-directamente-de-la-llave",
+    "title": "27 - c. Me siento seguro/a consumiendo (bebiendo) el agua directamente de la llave",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "27-d-los-bogotanos-han-adoptado-mejores-practicas-para-el-ahorro-de-agua",
+    "title": "27 - d. Los bogotanos han adoptado mejores prácticas para el ahorro de agua",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "28-701-de-los-siguientes-temas-cual-deberia-ser-el-primero-y-mas-importante-que-debe-tratar-la-alcaldia-de-bogota",
+    "title": "28 - 701. ¿De los siguientes temas, cuál debería ser el PRIMERO y más importante que debe tratar la Alcaldía de Bogotá?",
+    "chartKind": "hbar",
+    "categories": [
+      "a. Inseguridad",
+      "b. Salud",
+      "c. Pobreza",
+      "d. Movilidad",
+      "e. Educación",
+      "f. Desempleo",
+      "g. Servicios públicos",
+      "h. Convivencia y cultura ciudadana",
+      "i. Vivienda"
+    ]
+  },
+  {
+    "id": "29-b-confio-en-que-mis-vecinos-me-ayudarian-ante-cualquier-problema-o-necesidad",
+    "title": "29 - b. Confío en que mis vecinos me ayudarían ante cualquier problema o necesidad",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "29-c-confio-en-que-la-administracion-distrital-de-bogota-esta-trabajando-para-mejorar-la-calidad-de-vida-de-los-ciudadanos",
+    "title": "29 - c. Confío en que la Administración Distrital de Bogotá está trabajando para mejorar la calidad de vida de los ciudadanos",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "29-d-en-la-ciudad-las-personas-son-incluyentes-y-respetan-la-diversidad-cultural-etnica-socioeconomica-orientacion-sexual-etc",
+    "title": "29 - d. En la ciudad las personas son incluyentes y respetan la diversidad (cultural, étnica, socioeconómica, orientación sexual, etc.)",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "29-e-confio-en-que-en-el-futuro-bogota-sera-un-mejor-lugar-para-vivir-para-mi-familia-y-para-mi",
+    "title": "29 - e. Confío en que, en el futuro, Bogotá será un mejor lugar para vivir para mi familia y para mí",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "29-g-confio-en-que-el-gobierno-distrital-tiene-la-capacidad-de-adaptarse-y-responder-ante-situaciones-de-crisis",
+    "title": "29 - g. Confío en que el Gobierno Distrital tiene la capacidad de adaptarse y responder ante situaciones de crisis",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "29-h-me-siento-orgulloso-a-de-vivir-en-bogota",
+    "title": "29 - h. Me siento orgulloso/a de vivir en Bogotá",
+    "chartKind": "stacked",
+    "categories": [
+      "En desacuerdo",
+      "Ni de acuerdo. Ni en desacuerdo",
+      "De acuerdo",
+      "Ns/Nr"
+    ]
+  },
+  {
+    "id": "30-801-de-los-siguientes-medios-de-informacion-cuales-son-los-que-mas-utiliza-para-conocer-y-enterarse-de-lo-que-pasa-en-la-ciudad-de-bogota",
+    "title": "30 - 801. ¿De los siguientes medios de información cuáles son los que MÁS UTILIZA  para conocer y enterarse de lo que pasa en la ciudad de Bogotá",
+    "chartKind": "hbar",
+    "categories": [
+      "Programas y noticieros de canales de televisión nacional",
+      "¿Otro  cuál ?",
+      "Programas y noticieros de canales de televisión local  Bogotá (City TV,  Canal Capital, etc.)",
+      "Emisoras de radio con cubrimiento nacional",
+      "Emisoras de radio con cubrimiento local",
+      "Redes sociales (Facebook, YouTube,TikTok, WhatsApp, X Etc.",
+      "Periódicos y revistas impresas",
+      "Periódicos y revistas por Internet",
+      "El voz a voz (familiares, amigos, vecinos)",
+      "La iglesia donde asiste regularmente"
+    ]
+  },
+  {
+    "id": "31-802-de-los-siguientes-medios-de-informacion-cuales-son-los-que-mas-utiliza-para-conocer-y-enterarse-de-lo-que-pasa-en-su-barrio-o-zona-donde-vive",
+    "title": "31 - 802 ¿De los siguientes medios de información  cuáles son los  que MÁS UTILIZA  para conocer y enterarse de lo que pasa en su barrio o zona donde vive",
+    "chartKind": "hbar",
+    "categories": [
+      "Programas y noticieros de canales de televisión nacional",
+      "¿Otro  cuál ?",
+      "Programas y noticieros de canales de televisión local  Bogotá (City TV,  Canal Capital, etc.)",
+      "Emisoras de radio con cubrimiento nacional",
+      "Emisoras de radio con cubrimiento local",
+      "Redes sociales (Facebook, YouTube,TikTok, WhatsApp, X Etc.",
+      "Periódicos y revistas impresas",
+      "Periódicos y revistas por Internet",
+      "El voz a voz (familiares, amigos, vecinos)",
+      "La iglesia donde asiste regularmente"
+    ]
+  },
+  {
+    "id": "32-c-cual-es-el-nivel-educativo-mas-alto-que-usted-ha-alcanzado",
+    "title": "32 - C. ¿Cuál es el nivel educativo más alto que usted ha alcanzado?",
+    "chartKind": "hbar",
+    "categories": [
+      "Ninguno",
+      "Primaria",
+      "Básica secundaria",
+      "Media",
+      "Técnica/tecnológica",
+      "Profesional",
+      "Postgrado"
+    ]
+  },
+  {
+    "id": "33-d-sexo-al-nacer",
+    "title": "33 - D. Sexo al nacer",
+    "chartKind": "hbar",
+    "categories": [
+      "Hombre",
+      "Mujer",
+      "Intersexual"
+    ]
+  },
+  {
+    "id": "34-e-usted-se-reconoce-como",
+    "title": "34 - E. ¿Usted se reconoce como?",
+    "chartKind": "hbar",
+    "categories": [
+      "Hombre",
+      "Mujer",
+      "Mujer trans",
+      "Hombre trans",
+      "Otro",
+      "No responde"
+    ]
+  },
+  {
+    "id": "35-f-usted-siente-atraccion-sexual-o-romantica-por",
+    "title": "35 - F. ¿Usted siente atracción sexual o romántica por?:",
+    "chartKind": "hbar",
+    "categories": [
+      "Hombres",
+      "Mujeres",
+      "Ambos sexos",
+      "¿Otra cuál?",
+      "No responde"
+    ]
+  },
+  {
+    "id": "36-g-cual-es-su-estado-civil",
+    "title": "36 - G. ¿Cuál es su estado civil?",
+    "chartKind": "hbar",
+    "categories": [
+      "Soltera / o / e",
+      "Casada / o / e",
+      "Unión libre (no está casada / o/ e . Y vive en pareja hace dos años o más)",
+      "No está casada / o / e. Y vive en pareja hace menos de dos años",
+      "Divorciada / o / e o separada / o / e",
+      "Viuda / o / e"
+    ]
+  },
+  {
+    "id": "37-h-segun-el-recibo-o-servicio-de-energia-electrica-cual-es-el-estrato-de-esta-vivienda",
+    "title": "37 - H. Según el recibo o servicio de energía eléctrica  ¿cuál es el estrato de esta vivienda?",
+    "chartKind": "hbar",
+    "categories": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "No tiene servicio",
+      "No informa"
+    ]
+  }
+]
