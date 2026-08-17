@@ -22,6 +22,7 @@ export default defineConfig({
 			})
 		})
 	],
+	base: '/encuesta-distrital-percepcion/',
 	test: {
 		expect: { requireAssertions: true },
 		projects: [

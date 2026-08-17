@@ -89,14 +89,6 @@
 		padding-left: 2%;
 	}
 
-	.kicker {
-		margin: 0 0 0.25rem;
-		font-size: 0.72rem;
-		letter-spacing: 0.08em;
-		text-transform: uppercase;
-		color: #9db6d4;
-	}
-
 	h1 {
 		margin: 0;
 		max-width: 42rem;
